@@ -13,9 +13,9 @@
 @ # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # @
 ```
 
-[![Python Version](https://img.shields.io/badge/python-3.9-blue?style=for-the-badge&logo=python)](https://github.com/EONRaider/Packet-Sniffer/)
-[![Open Source? Yes!](https://img.shields.io/badge/Open%20Source%3F-Yes!-green?style=for-the-badge&logo=appveyor)](https://github.com/EONRaider/Packet-Sniffer/)
-[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](https://github.com/EONRaider/Packet-Sniffer/blob/master/LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.9-blue?style=for-the-badge&logo=python)](https://github.com/itsmekishanlal/Word-List-Minimizer/)
+[![Open Source? Yes!](https://img.shields.io/badge/Open%20Source%3F-Yes!-green?style=for-the-badge&logo=appveyor)](https://github.com/itsmekishanlal/Word-List-Minimizer/)
+[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](https://github.com/itsmekishanlal/Word-List-Minimizer/blob/master/LICENSE)
 
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/itsmekishanlal?style=flat-square&logo=reddit)](https://www.reddit.com/user/itsmekishanlal)
 [![Twitter](https://img.shields.io/twitter/follow/itsmekishanlal?style=flat-square&logo=twitter)](https://twitter.com/intent/follow?screen_name=itsmekishanlal)
