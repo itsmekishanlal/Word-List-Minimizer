@@ -17,8 +17,8 @@
 [![Open Source? Yes!](https://img.shields.io/badge/Open%20Source%3F-Yes!-green?style=for-the-badge&logo=appveyor)](https://github.com/itsmekishanlal/Word-List-Minimizer/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](https://github.com/itsmekishanlal/Word-List-Minimizer/blob/master/LICENSE)
 
-[![Reddit](https://img.shields.io/reddit/user-karma/combined/#?style=flat-square&logo=reddit)](https://www.reddit.com/user/itsmekishanlal)
-[![Twitter](https://img.shields.io/twitter/follow/0xr001?style=flat-square&logo=twitter)](https://twitter.com/intent/follow?screen_name=itsmekishanlal)
+[![Reddit](https://img.shields.io/reddit/user-karma/combined/#?style=flat-square&logo=reddit)](https://www.reddit.com/user/#)
+[![Twitter](https://img.shields.io/twitter/follow/0xr001?style=flat-square&logo=twitter)](https://twitter.com/intent/follow?screen_name=0xr001)
 
 > ## **Description**
 
